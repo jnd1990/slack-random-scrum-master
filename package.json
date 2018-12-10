@@ -1,0 +1,21 @@
+{
+  "name": "random-scrum",
+  "version": "1.0.0",
+  "description": "Pick random person to run stand-up",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "James Dickinson",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.3",
+    "node-schedule": "^1.3.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
+    "node-schedule": "^1.3.0"
+  }
+}
